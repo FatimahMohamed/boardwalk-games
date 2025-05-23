@@ -67,6 +67,25 @@ h2 {
     color: white
 }
 
+.book {
+    border: 2px solid var(--highlight-color);
+    color: var(--highlight-color)
+    margin-top: 10rem;
+}
+
+/* Discount banner */
+.discount {
+    background-color: var(--highlight-color);
+    color:  white;
+    padding: 0.2rem;
+   
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    white-space: nowrap;
+       /* Center the text */
+}
+
 /* Navbar */
 
 #navbar {
@@ -94,6 +113,9 @@ h2 {
 #services .card {
     margin-bottom: 1.5rem;
 }
+
+/* Events */
+
 
 /* Game library cards */
 
