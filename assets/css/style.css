@@ -39,7 +39,7 @@ h2 {
 }
 
 .section {
-    padding-top: 4rem;;
+    padding-top: 4rem;
 }
 
 /* Buttons */
@@ -70,7 +70,8 @@ h2 {
 .book {
     border: 2px solid var(--highlight-color);
     color: var(--highlight-color);
-    margin-top: 10rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 /* Discount banner */
