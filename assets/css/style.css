@@ -15,6 +15,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 57.14px; /* Adjusted for fixed navbar height */
 }
 
 h1,
@@ -69,7 +70,7 @@ h2 {
 
 .book {
     border: 2px solid var(--highlight-color);
-    color: var(--highlight-color)
+    color: var(--highlight-color);
     margin-top: 10rem;
 }
 
